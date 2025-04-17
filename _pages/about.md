@@ -80,7 +80,9 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 **Reviewers**
 - Reviewer for IEEE Transactions on Mobile Computing (IEEE TMC).
 - Reviewer for IEEE Journal on Selected Areas in Communications (IEEE JSAC).
+- Reviewer for IEEE Transactions on Wireless Communications (IEEE TWC).
 - Reviewer for IEEE Transactions on Communications (IEEE TCOM).
+- Reviewer for IEEE Transactions on Dependable and Secure Computing (IEEE TDSC).
 - Reviewer for IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN).
 - Reviewer for IEEE Internet of Things Journal (IEEE IOTJ).
 - Reviewer for IEEE Wireless Communications Magazine (IEEE WCM).
