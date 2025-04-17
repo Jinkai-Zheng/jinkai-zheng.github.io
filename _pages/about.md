@@ -20,18 +20,18 @@ redirect_from:
 
 Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian University in 2024, supervised by [Prof. Tom H. Luan](https://web.xidian.edu.cn/luanhao/) (Senior Member of IEEE). From 2023 to 2024, he was a visiting Ph.D. student with the Department of Computer Science, University of Victoria, Victoria, BC, Canada, supervised by [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow of IEEE). He is currently a Post-Doctoral Research Fellow with the School of Cyber Science and Engineering, Xi’an Jiaotong University, China, supervised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (Fellow of IEEE, RSC, CAE, and EIC). He has published several papers in leading journals and international conferences, including IEEE INFOCOM, TMC, TWC, WCM, TVT, and TNSE. His research interests currently include the Internet of Vehicles, Digital Twins, Reinforcement Learning, and Game Theory.
 
+# 📚 Employment
+- **2024-2026** &nbsp;&nbsp;&nbsp;Post-Doctoral Research Fellow, the School of Cyber Science and Engineering, Xi’an Jiaotong University, China.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) and [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (Fellow of IEEE, RSC, CAE, and EIC). 
+
 # 📖 Educations
 - **2023-2024**  &nbsp;&nbsp;&nbsp;Visiting Ph.D., University of Victoria, Victoria, BC, Canada.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow of IEEE).  
 - **2020-2024**  &nbsp;&nbsp;&nbsp;Ph.D. in Cyber Security, Xidian University, China.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) (Senior Member of IEEE).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home).
 - **2018-2020**  &nbsp;&nbsp;&nbsp;M.Sc. in Cyber Security (transferred to PhD program), Xidian University, China.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) (Senior Member of IEEE).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home).
 - **2014-2018**  &nbsp;&nbsp;&nbsp;B.Eng. in Computer Science and Technology, Qingdao Agricultural University, China.
-
-# 📚 Employment
-- **2024-2026** &nbsp;&nbsp;&nbsp;Post-Doctoral Research Fellow, the School of Cyber Science and Engineering, Xi’an Jiaotong University, China.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) and [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (Fellow of IEEE, RSC, CAE, and EIC). 
 
 # 📝 Publications 
 ## **<span style="color:blue;">Journals and Magazines</span>**
