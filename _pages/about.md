@@ -70,6 +70,9 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 - Guanjie Li, Tom H. Luan, Chengzhe Lai, **Jinkai Zheng**, and Rongxing Lu, "DTHA: A Digital Twin-Assisted Handover Authentication Scheme for 5G and Beyond", IEEE Transactions on Dependable and Secure Computing, 2024.
 - Weiwei Yang, Xiaoyi Zeng, **Jinkai Zheng**, Yanfeng Zhang, Kaihui Liu, and Kangle Mu, “Resource Trading for Vehicular Edge Computing Networks: A Trust-Based Double Auction Approach”, IEEE International Conference on Computer Communications and Networks (ICCCN), 2025.
 - Yuan Chang, Tom H. Luan, Yinbin Miao, Yinuo Li, **Jinkai Zheng**, and Zhou Su, “AuditCT: Decentralized and Efficient Identity Traceability Scheme for Monero Transactions,” IEEE Transactions on Information Forensics and Security, 2025.
+- Yuan Chang, Yinbin Miao, Tom H. Luan, Yinuo Li, **Jinkai Zheng**, and Zhou Su, “TCRS: Traceable and Conditional Release System for Monero Transactions,” IEEE/ACM Transactions on Networking, 2025.
+- Weiwei Yang, Jinan Liu, **Jinkai Zheng**, Xiaoyan Li, Kaihui Liu, and Yalun Wu, “Computation Reuse and Imitation Learning-Enabled Task Offloading for Vehicular Edge Networks,” IEEE Global Communications Conference (GlobeCom), 2025.
+- Yanfeng Zhang, Xu Zhu, **Jinkai Zheng**, Weiwei Yang, Xianhua Yu, Haiyong Zeng, Yujie Liu, and Yongliang Guan, “Dual-Mapping Sparse Vector Transmission for Short Packet URLLC,” IEEE Global Communications Conference (GlobeCom), 2025.
   
 # 💬 Services
 **TPC Members**
