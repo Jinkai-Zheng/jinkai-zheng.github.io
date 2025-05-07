@@ -35,6 +35,7 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 
 # 📝 Publications 
 ## **<span style="color:blue;">Journals and Magazines</span>**
+- **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Yanfeng Zhang, Mingfeng Yuan, and Jianping Pan, “QTER: QoS-Aware Three-Dimensional Efficient and Reliable Routing for LEO Satellite Networks”, IEEE Internet of Things Journal, 2025.
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Jinwei Zhao, Zhisheng Yin, Nan Cheng, and Jianping Pan, “Low Earth Orbit Satellite Networks: Architecture, Key Technologies, Measurement, and Open Issues”, IEEE Network, 2025.
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Zhisheng Yin, Yuan Wu, and Mianxiong Dong, “ACDV: Adaptive Content Delivery for Vehicular Digital Twin Networks”, IEEE Transactions on Vehicular Technology, 2024.
 - **Jinkai Zheng**, Tom H. Luan, Yao Zhang, Guanjie Li, Zhou Su, and Wen Wu, “Digital Twin in 6G: Embracing Comprehensive Network Intelligence”, IEEE Wireless Communications, 2024.
@@ -66,7 +67,6 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 - **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yao Zhang, Yuan Wu, “Learning Based Task Offloading in Digital Twin Empowered Internet of Vehicles”, arXiv preprint arXiv:2201.09076, 2021.
 
 ## **<span style="color:blue;">Preprints</span>**
-- **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Yanfeng Zhang, Mingfeng Yuan, and Jianping Pan, “QTER: QoS-Aware Three-Dimensional Efficient and Reliable Routing for LEO Satellite Networks”, IEEE Internet of Things Journal, 2024.
 - Guanjie Li, Tom H. Luan, Chengzhe Lai, **Jinkai Zheng**, and Rongxing Lu, "DTHA: A Digital Twin-Assisted Handover Authentication Scheme for 5G and Beyond", IEEE Transactions on Dependable and Secure Computing, 2024.
 - Weiwei Yang, Xiaoyi Zeng, **Jinkai Zheng**, Yanfeng Zhang, Kaihui Liu, and Kangle Mu, “Resource Trading for Vehicular Edge Computing Networks: A Trust-Based Double Auction Approach”, IEEE International Conference on Computer Communications and Networks (ICCCN), 2025.
 - Yuan Chang, Tom H. Luan, Yinbin Miao, Yinuo Li, **Jinkai Zheng**, and Zhou Su, “AuditCT: Decentralized and Efficient Identity Traceability Scheme for Monero Transactions,” IEEE Transactions on Information Forensics and Security, 2025.
