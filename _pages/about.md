@@ -35,6 +35,7 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 
 # 📝 Publications 
 ## **<span style="color:blue;">Journals and Magazines</span>**
+- **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Haixia Peng, Nan Cheng, and Xuemin (Sherman) Shen, “Networking Intelligent Agents at Scale: The Vision of Internet of Agents”, IEEE Network, 2025.
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Yanfeng Zhang, Mingfeng Yuan, and Jianping Pan, “QTER: QoS-Aware Three-Dimensional Efficient and Reliable Routing for LEO Satellite Networks”, IEEE Internet of Things Journal, 2025.
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Jinwei Zhao, Zhisheng Yin, Nan Cheng, and Jianping Pan, “Low Earth Orbit Satellite Networks: Architecture, Key Technologies, Measurement, and Open Issues”, IEEE Network, 2025.
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Zhisheng Yin, Yuan Wu, and Mianxiong Dong, “ACDV: Adaptive Content Delivery for Vehicular Digital Twin Networks”, IEEE Transactions on Vehicular Technology, 2024.
